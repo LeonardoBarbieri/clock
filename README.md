@@ -1,2 +1,2 @@
 # clock
-Made a clock with html/css/js for practice
+Made a clock with html/css/js for practice.
